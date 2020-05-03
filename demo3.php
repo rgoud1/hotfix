@@ -4,5 +4,7 @@ echo 'this is third file for hotfix_rapid';
 
 echo 'check_diff';
 
+echo 'Preparing data for cherry pick';
+
 
 ?>
