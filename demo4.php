@@ -7,4 +7,5 @@ echo 'conflict 5';
 echo 'conflict 6';
 echo 'conflict 7';
 echo 'conflict 8';
+echo 'conflict 9';
 ?>
